@@ -20,7 +20,10 @@ export default function IndexPage() {
     <ThemeProvider theme={theme}>
       <StickyProvider>
         <Layout>
-          <SEO title="Deaf translator" />
+          <SEO 
+            title="Deaf translator"
+            description="Application for bridging the communication gap for a better people synchronisation" 
+          />
           <Banner />
           <KeyFeature />
           <CoreFeature />
