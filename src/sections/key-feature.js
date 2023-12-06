@@ -12,17 +12,17 @@ const data = [
     id: 1,
     imgSrc: Vector,
     altText: 'Translation & Transcription',
-    title: 'Translation',
+    title: 'Translation & Transcription',
     text:
-      'Inclusive conversations through seamless Deaf Sign Translator for better understanding.',
+      'Inclusive translation in sign language and transcription',
   },
   {
     id: 2,
     imgSrc: Editing,
     altText: 'Real time communication',
-    title: 'Transcription',
+    title: 'Real time communication',
     text:
-      'Enable accurate Deaf Sign Transcription for effective, accessible communication.',
+      'Enable inclusive real time communication based on artificial intelligence',
   },
   {
     id: 3,
