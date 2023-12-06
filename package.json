@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "serve": "next start",
-    "export": "next export",
-    "postbuild": "next-sitemap"
+    "export": "next export"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
@@ -15,6 +14,7 @@
     "globby": "^11.0.0",
     "isomorphic-unfetch": "^3.0.0",
     "next": "9.5.3",
+    "@next/env": "^12.0.7",
     "next-compose-plugins": "^2.2.0",
     "next-optimized-images": "^2.5.4",
     "prettier": "^2.1.2",
