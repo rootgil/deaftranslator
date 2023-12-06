@@ -44,12 +44,12 @@ export default function Banner() {
       <Container sx={styles.banner.container}>
         <Box sx={styles.banner.contentBox}>
           <Heading as="h1" variant="heroPrimary">
-            Revolutionize communication with our Deaf Translator.
+            Revolutionize communication with our Deaf Translator
           </Heading>
           <Text as="p" variant="heroSecondary">
             Transform your communication experience with our groundbreaking 
             Deaf Translator app, bridging gaps and fostering inclusivity 
-            seamlessly on your mobile device.
+            seamlessly on your mobile device
           </Text>
           <Flex>
             <Button variant="whiteButton" aria-label="Get Started">

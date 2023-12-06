@@ -14,18 +14,18 @@ const data = {
     {
       id: 1,
       imgSrc: Briefcase,
-      altText: 'Smart Features',
-      title: 'Smart Features',
+      altText: 'Sign recognition',
+      title: 'Sign recognition',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Experience seamless deaf sign recognition technology, effortlessly translating sign language from the comfort of your home. Unlock communication accessibility with ease.',
     },
     {
       id: 2,
       imgSrc: Secure,
-      altText: 'Secure Contents',
-      title: 'Secure Contents',
+      altText: 'Sign generation',
+      title: 'Sign generation',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Empower expressive communication with cutting-edge deaf sign generation, bringing forth natural and dynamic sign language expressions.',
     },
   ],
 };

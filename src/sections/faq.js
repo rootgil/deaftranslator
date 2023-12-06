@@ -4,44 +4,26 @@ import SectionHeader from 'components/section-header';
 import Accordion from 'components/accordion/accordion';
 const faqs = [
   {
-    title: 'How to contact with riders emergency ?',
+    title: 'Can I say “deaf people”?',
     contents: (
       <div>
-        Get your website ads tests delivered at let collect sample from the
-        victory of the managements that supplies best design system which
-        guidelines ever with multiple features.
+        If you thought this term was offensive, you are mistaken. It is the way they prefer to be called. On the other hand, using deaf-mute is wrong, deaf people have a voice and muteness is a different disability.
       </div>
     ),
   },
   {
-    title: 'App installation failed, how to update system information?',
+    title: 'Is Sign Language made up of “signs” or “gestures”?',
     contents: (
       <div>
-        Rhino skin maybe thick but it can be quite sensitive to sunburns and
-        insect bites which is why they like wallow so much – when the mud dries
-        it acts as protection from the sunburns and insects.
+        At some point you must have come across the term “gestures” when referring to ASL, right? While signs are how people communicate in Sign Languages, gestures are just movements people often use as part of their communicative act.
       </div>
     ),
   },
   {
-    title: `Website response taking time, how to improve?`,
+    title: `Is there a difference between deaf and hearing impaired people?`,
     contents: (
       <div>
-        Get your blood tests delivered at the home collect a sample from
-        management news. Get your blood tests delivered at the home collect a
-        sample from management news. Get your blood tests delivered at the home
-        collect a sample from management news. Get your blood tests delivered at
-        the home.
-      </div>
-    ),
-  },
-  {
-    title: `New update fixed all bug and issues`,
-    contents: (
-      <div>
-        If you’re looking to hunt a unicorn, but don’t know where to begin, try
-        Lake Superior State University in Sault Ste. Marie, Michigan. Since
-        1971, the university has issued permits to unicorn questers.
+        From a clinical point of view, what differentiates the deaf from the hearing impaired is the depth of the hearing loss. However, taking into consideration only the clinical perspective is not enough, since the different terms also carry an important cultural component: American Sign Language.
       </div>
     ),
   },
@@ -51,8 +33,8 @@ export default function Faq() {
     <section sx={{ variant: 'section.faq' }}>
       <Container>
         <SectionHeader
-          title="Frequently asked question"
-          slogan="Get your question answer"
+          title="Curiosity"
+          slogan="Deaf Community Common Mistakes"
         />
         <Box
           sx={{

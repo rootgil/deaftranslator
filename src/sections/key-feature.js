@@ -11,26 +11,26 @@ const data = [
   {
     id: 1,
     imgSrc: Vector,
-    altText: 'Vector',
-    title: 'Vector Editing',
+    altText: 'Translation & Transcription',
+    title: 'Translation',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Inclusive conversations through seamless Deaf Sign Translator for better understanding.',
   },
   {
     id: 2,
     imgSrc: Editing,
-    altText: 'Monitoring',
-    title: 'Customize & Monitoring',
+    altText: 'Real time communication',
+    title: 'Transcription',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Enable accurate Deaf Sign Transcription for effective, accessible communication.',
   },
   {
     id: 3,
     imgSrc: Speed,
-    altText: 'Quality',
-    title: 'Quality & Short-period',
+    altText: 'Learning',
+    title: 'Learning',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Master sign language conveniently on your journey of Deaf Learning.',
   },
 ];
 

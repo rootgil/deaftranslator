@@ -10,27 +10,27 @@ import ArrowEven from 'assets/arrowEven.png';
 const data = [
   {
     id: 1,
-    title: 'Set disbursement Instructions',
+    title: 'Input/Recording',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'You can type a text, record with your camera or put a video',
   },
   {
     id: 2,
-    title: 'Assembly retrieves funds from your account',
+    title: 'Translation/Recognition',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Tanslation or recognition depond on yoir input type',
   },
   {
     id: 3,
-    title: 'Assembly initiates disbursement',
+    title: 'Output',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Get a text or sign langage video',
   },
   {
     id: 4,
-    title: 'Customer receives funds payment',
+    title: 'Enhancements',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Additional features : real-time translation, customization options',
   },
 ];
 
