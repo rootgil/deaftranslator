@@ -56,12 +56,12 @@ export default function Banner() {
               Get Started
             </Button>
             <>
-              <ModalVideo
+              {/* <ModalVideo
                 channel="youtube"
                 isOpen={videoOpen}
-                videoId="https://youtu.be/mY8fzvRlJFE"
+                videoId="mY8fzvRlJFE"
                 onClose={() => setVideoOpen(false)}
-              />
+              /> */}
               <Button
                 variant="textButton"
                 aria-label="Watch Video"
